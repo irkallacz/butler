@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<services>
+  <service>
+    <name>Apache2.4</name>
+    <label>Apache</label>
+  </service>
+    <service>
+    <name>MySQL</name>
+    <label>MySQL</label>
+  </service>
+  <service>
+    <name>MSSQL$AMEDTEC</name>
+    <label>SQL Server (AMEDTEC)</label>
+  </service>
+  <service>
+    <name>MSSQL$GERRESPSQLSERVER</name>
+    <label>SQL Server (GERRESPSQLSERVER)</label>
+  </service>
+</services>
